@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1566311082 source:/home/aluno/Documentos/a/lista1/2/litros/header.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1566310446 /home/aluno/Documentos/a/lista1/2/litros/header.h
+
+1566311103 source:/home/aluno/Documentos/a/lista1/2/litros/main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
