@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1566311082 source:/home/aluno/Documentos/a/lista1/2/numeros complexos/header.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1566310446 /home/aluno/Documentos/a/lista1/2/numeros complexos/header.h
+
+1566311103 source:/home/aluno/Documentos/a/lista1/2/numeros complexos/main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1566912611 source:/home/aluno/Exercicios-AEDS-I/numeros complexos/header.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1566912583 /home/aluno/Exercicios-AEDS-I/numeros complexos/header.h
+
+1566912150 source:/home/aluno/Exercicios-AEDS-I/numeros complexos/main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
